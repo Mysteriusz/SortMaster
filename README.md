@@ -22,4 +22,4 @@ Library for .NET applications with multiple sorting algorithms and utils
    - **RadixSort** *(ONLY FOR UINT)*
    
 - Utils
-   - SortingManager (Contains all sorting algorithms in one class)
+   - **SortingManager** *(Contains all sorting algorithms in one class)*
