@@ -14,10 +14,9 @@ Library for .NET applications with multiple sorting algorithms and utils
    - SelectionSort
    - ShellSort
    - TimSort
-  (ONLY FOR UINT)
-   - CountSort
-   - PigeonholeSort
-   - RadixSort
+   - CountSort (ONLY FOR UINT)
+   - PigeonholeSort (ONLY FOR UINT)
+   - RadixSort (ONLY FOR UINT)
    
 - Utils
    - SortingManager (Contains all sorting algorithms in one class)
