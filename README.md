@@ -20,5 +20,5 @@ Library for .NET applications with multiple sorting algorithms and utils
    - **PigeonholeSort** *(ONLY FOR UINT)*
    - **RadixSort** *(ONLY FOR UINT)*
    
-- Utils
+## Utils
    - **SortingManager** *(Contains all sorting algorithms in one class)*
