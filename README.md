@@ -4,8 +4,7 @@ Library for .NET applications with multiple sorting algorithms and utils
 # Algorithms
 
 ## Supported Sorting Algorithms
-
-- **BubbleSort**
+   - **BubbleSort**
    - **CocktailSort**
    - **CombSort**
    - **CycleSort**
