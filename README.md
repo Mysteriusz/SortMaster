@@ -1,9 +1,7 @@
 # SortMaster
 Library for .NET applications with multiple sorting algorithms and utils
 
-# Algorithms
-
-## Supported Sorting Algorithms
+## Included Sorting Algorithms
    - **BubbleSort**
    - **CocktailSort**
    - **CombSort**
